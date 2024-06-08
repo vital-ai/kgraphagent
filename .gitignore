@@ -1,0 +1,8 @@
+.idea/*
+build/*
+dist/*
+kgraphagent.egg-info/*
+
+**/*.yaml
+
+test_output/*
