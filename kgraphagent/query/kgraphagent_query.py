@@ -1,0 +1,3 @@
+
+class KGraphAgentQuery:
+    pass
