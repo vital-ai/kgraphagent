@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='kgraphagent',
-    version='0.0.2',
+    version='0.0.3',
     author='Marc Hadfield',
     author_email='marc@vital.ai',
     description='KGraph Agent',
@@ -13,7 +13,7 @@ setup(
     license='Apache License 2.0',
     install_requires=[
             'requests>=2.31.0',
-            'vital-ai-vitalsigns>=0.1.20',
+            'vital-ai-vitalsigns>=0.1.21',
             'vital-ai-domain>=0.1.7',
             'six',
             'pyyaml',
