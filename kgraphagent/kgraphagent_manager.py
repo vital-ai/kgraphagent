@@ -12,6 +12,4 @@ class KGraphAgentManager:
 # an agent implementation may use such a library and wrap the functionality in
 # this library
 
-# handle unpacking containers of kg message history
-# may use data definitions in kgraphservice, such as message part
 

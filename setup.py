@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='kgraphagent',
-    version='0.0.3',
+    version='0.0.4',
     author='Marc Hadfield',
     author_email='marc@vital.ai',
     description='KGraph Agent',
@@ -17,7 +17,8 @@ setup(
             'vital-ai-domain>=0.1.7',
             'six',
             'pyyaml',
-            'vital-ai-haley-kg>=0.1.11',
+            'vital-ai-haley-kg>=0.1.14',
+            'vital-agent-kg-utils>=0.1.1',
             'kgraphmemory>=0.0.5',
             'kgraphservice>=0.0.5',
             'kgraphgen>=0.0.1',
